@@ -1,0 +1,8 @@
+C:\Windows\system32\wsl.exe --distribution Ubuntu --exec /bin/bash -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/d/GIT/Hahaton/Test/cmake-build-debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' -S /mnt/d/GIT/Hahaton/Test -B /mnt/d/GIT/Hahaton/Test/cmake-build-debug"
+CMake Error at CMakeLists.txt:7:
+  Parse error.  Expected "(", got newline with text "
+
+  ".
+
+
+-- Configuring incomplete, errors occurred!

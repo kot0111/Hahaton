@@ -1,0 +1,3 @@
+/tmp/KotPC_Test/cmake-build-debug-remote-host/CMakeFiles/rebuild_cache.dir
+/tmp/KotPC_Test/cmake-build-debug-remote-host/CMakeFiles/edit_cache.dir
+/tmp/KotPC_Test/cmake-build-debug-remote-host/CMakeFiles/Test.dir
